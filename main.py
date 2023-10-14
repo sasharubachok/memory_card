@@ -1,7 +1,7 @@
-from PYQt5.QtCore import Qt 
-from PytQ5.QtWidgets import QAppication  
+from PyQt5.QtCore import Qt 
+from PyQt5.QtWidgets import QApplication  
 
-app = QAppication([])  
+app = QApplication([])  
 
 from main_window import * 
 
